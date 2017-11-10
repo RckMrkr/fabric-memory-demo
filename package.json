@@ -1,7 +1,7 @@
 {
   "name": "fabric-memory-demo",
   "version": "1.0.0",
-  "description": "Used to demonstrate a memory leak in node-canvas",
+  "description": "Used to demonstrate a memory leak in fabricjs",
   "main": "demo.js",
   "scripts": {
     "start": "docker-compose up --build"
