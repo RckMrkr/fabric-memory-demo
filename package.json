@@ -1,0 +1,16 @@
+{
+  "name": "fabric-memory-demo",
+  "version": "1.0.0",
+  "description": "Used to demonstrate a memory leak in node-canvas",
+  "main": "demo.js",
+  "scripts": {
+    "start": "docker-compose up --build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fabric": "v2.0.0-beta.7",
+    "jsdom": "9.x.x",
+    "xmldom": "0.1.x"
+  }
+}
